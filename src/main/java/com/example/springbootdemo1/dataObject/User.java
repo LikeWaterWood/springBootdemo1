@@ -1,4 +1,4 @@
-package com.example.springbootdemo1.domain;
+package com.example.springbootdemo1.dataObject;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
